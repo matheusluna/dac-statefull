@@ -1,0 +1,5 @@
+br\edu\ifpb\interfaces\DaoPessoaInterface.class
+br\edu\ifpb\services\ServicePessoa.class
+br\edu\ifpb\controladores\ControladorPessoa.class
+br\edu\ifpb\daos\DaoPessoa.class
+br\edu\ifpb\entidades\Pessoa.class
